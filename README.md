@@ -30,7 +30,7 @@ Requires training with the game environment to develop strategies based on recei
 
 # How to Run the Code:
 
-Execute the multiagent_tictactoe.py file.
+Execute the multiAgentTicTacToe.py file.
 Enter the names of Agent 1 and Agent 2 as prompted in the console, ensuring they are different.
 Specify the number of games to be played in the tournament.
 Observe and compare how different agents perform against each other in multiple game scenarios.
